@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<markers>
+ <marker>
+  <latitude>61.957177</latitude>
+  <longitude>17.342841</longitude>
+  <icon>marker_icons/culture/theater.png</icon>
+  <title>Mellanfjärdens Teater</title>
+  <info>Teater under sommaren.</info>
+  <in-links>
+  </in-links>
+  <out-links>
+   <link><url>http://www.mellanfjarden.se/teater/</url><text>Teaterns hemsida</text></link>
+  </out-links>
+ </marker>
+ <marker>
+  <latitude>61.9792</latitude>
+  <longitude>17.2648</longitude>
+  <icon>marker_icons/culture/art.png</icon>
+  <title>Skulls &amp; Bones</title>
+  <info></info>
+  <in-links>
+  </in-links>
+  <out-links>
+   <link><url>http://www.skullartistry.com</url><text>Hemsidan</text></link>
+  </out-links>
+ </marker>
+ <marker>
+  <latitude>61.95831</latitude>
+  <longitude>17.336832</longitude>
+  <icon>marker_icons/culture/spa.png</icon>
+  <title>Mellanfjärdens Pensionat</title>
+  <info>Ett spa.</info>
+  <in-links>
+  </in-links>
+  <out-links>
+   <link><url>http://www.mellanfjärdenspensionat.se</url><text>Hemsida</text></link>
+  </out-links>
+ </marker>
+ <marker>
+  <latitude>61.957545</latitude>
+  <longitude>17.342594</longitude>
+  <icon>marker_icons/culture/hotell.png</icon>
+  <title>Mellanfjärdens Pensionat</title>
+  <info>Ett hotell.</info>
+  <in-links>
+  </in-links>
+  <out-links>
+   <link><url>http://www.mellanfjarden.se/hotell/</url><text>Hemsida</text></link>
+  </out-links>
+ </marker>
+ <marker>
+  <latitude>61.957323</latitude>
+  <longitude>17.342659</longitude>
+  <icon>marker_icons/culture/art.png</icon>
+  <title>Hamnmagasinet i Mellanfjärden</title>
+  <info></info>
+  <in-links>
+  </in-links>
+  <out-links>
+   <link><url>http://www.konst-hantverk.blogspot.se/</url><text>Hemsida</text></link>
+  </out-links>
+ </marker>
+</markers>
+
+

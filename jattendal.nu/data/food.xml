@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<markers>
+ <marker>
+  <latitude>61.957263</latitude>
+  <longitude>17.3415</longitude>
+  <icon>marker_icons/food/fish.png</icon>
+  <title>Fiskbutiken</title>
+  <info>Butik som säljer fisk.</info>
+  <in-links>
+  </in-links>
+  <out-links>
+  </out-links>
+ </marker>
+ <marker>
+  <latitude>61.957124</latitude>
+  <longitude>17.342482</longitude>
+  <icon>marker_icons/food/restaurant.png</icon>
+  <title>Restaurang Sjömärket</title>
+  <info>En restaurang.</info>
+  <in-links>
+  </in-links>
+  <out-links>
+   <link><url>http://www.mellanfjarden.se/restaurang/</url><text>Hemsida</text></link>
+  </out-links>
+ </marker>
+ <marker>
+  <latitude>61.957503</latitude>
+  <longitude>17.342385</longitude>
+  <icon>marker_icons/food/shop.png</icon>
+  <title>Klaras Affär &amp; Cafe</title>
+  <info>En liten lokal affär.</info>
+  <in-links>
+  </in-links>
+  <out-links>
+  </out-links>
+ </marker>
+</markers>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<markers>
+ <marker>
+  <latitude>61.992145</latitude>
+  <longitude>17.302725</longitude>
+  <icon>marker_icons/nature/arch.png</icon>
+  <title>Arkeologisk utgrävning</title>
+  <info>Utgrävningen finns beskriven i boken "Stenålderskust i norr.
+Bosättning, försörjning och kontakter i södra Norrland" av Lena Holm</info>
+  <in-links>
+  </in-links>
+  <out-links>
+   <link><url>http://www.idesam.umu.se/forskning/publikationer/arkeologi/aldre-pub-arkeologi/studia-archaeologica-universitatis-umensis/stenalderskust-i-norr/</url><text>Boken av Lena Holm</text></link>
+  </out-links>
+ </marker>
+</markers>

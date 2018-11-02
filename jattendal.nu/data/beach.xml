@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<markers>
+ <marker>
+  <latitude>61.978765</latitude>
+  <longitude>17.283253</longitude>
+  <icon>marker_icons/beach/beach.png</icon>
+  <title>Håckstabadet</title>
+  <info>Ett lokalt bad.</info>
+  <in-links>
+  </in-links>
+  <out-links>
+  </out-links>
+ </marker>
+ <marker>
+  <latitude>61.992366</latitude>
+  <longitude>17.392139</longitude>
+  <icon>marker_icons/beach/beach.png</icon>
+  <title>Lögstället</title>
+  <info>Det lokala badet i Hårte.</info>
+  <in-links>
+  </in-links>
+  <out-links>
+  </out-links>
+ </marker>
+ <marker>
+  <latitude>61.980857</latitude>
+  <longitude>17.389918</longitude>
+  <icon>marker_icons/beach/beach.png</icon>
+  <title>Morskatsviken</title>
+  <info>Ett annat bad i Hårte.</info>
+  <in-links>
+  </in-links>
+  <out-links>
+  </out-links>
+ </marker>
+</markers>
